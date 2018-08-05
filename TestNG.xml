@@ -3,7 +3,7 @@
 <suite name="Default Suite" >
   <test name="workLocaltion">
     <classes>
-      <class name="com.ceshi.day1.CloseBrowerTest"/>
+      <class name="com.ceshi.day1.TestNGDemo1"/>
     </classes>
   </test> <!-- webdriver_demo -->
 </suite> <!-- Default Suite -->
